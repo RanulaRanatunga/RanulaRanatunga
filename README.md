@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
-- 📄 Know about my experiences (1 Year and 4 Months)
+- 📄 Know about my experiences
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanulaRanatunga&show_icons=true&theme=nightowl)
 
