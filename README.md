@@ -3,6 +3,14 @@
 
 <h3 align="left">I'm Ranula from SriLanka , and I do content on Design and Mobile App Development. I really enjoy learning languages and frameworks like Android and Flutter, as well as iOS Development. I also enjoy wireframing mobile ui, ux and design in general. You can check out my YouTube channel youtube.com/channel/UC5eVNrhLEKnoh8-mEpzt8fQ</h3>
 
+- 🔭 I’m currently working on **Flutter project**
+
+- 🌱 I’m currently learning **Dart Language**
+
+- 👯 I’m looking to collaborate on **Flutter Development**
+
+- 📄 Know about my experiences [1 Year and 4 Months](1 Year and 4 Months)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanulaRanatunga&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanulaRanatunga)](https://github.com/anuraghazra/github-readme-stats)
