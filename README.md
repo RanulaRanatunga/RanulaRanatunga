@@ -7,3 +7,5 @@ I'm Ranula from SriLanka , and I do content on Desgin and Mobile App Development
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanulaRanatunga&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanulaRanatunga)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RanulaRanatunga)](https://github.com/anuraghazra/github-readme-stats)
