@@ -3,7 +3,7 @@
 
 <h3 align="left">I'm Ranula from SriLanka , and I do content on Design and Mobile App Development. I really enjoy learning languages and frameworks like Android and Flutter, as well as iOS Development. I also enjoy wireframing mobile ui, ux and design in general. You can check out my YouTube channel youtube.com/channel/UC5eVNrhLEKnoh8-mEpzt8fQ</h3>
 
-- 🔭 I’m currently working on **Flutter project**
+- 🔭 I’m currently working on **Flutter projects and iOS Projects**
 
 - 🌱 I’m currently learning **Dart Language**
 
