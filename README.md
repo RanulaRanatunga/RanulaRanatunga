@@ -1,13 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ranularanatunga&label=Profile%20views&color=0e75b6&style=flat" alt="ranularanatunga" /> </p>
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="left">I'm Ranula from SriLanka , and I do content on Design and Mobile App Development. I really enjoy learning languages and frameworks like Android and Flutter, as well as iOS Development. I also enjoy wireframing mobile ui, ux and design in general. You can check out my YouTube channel youtube.com/channel/UC5eVNrhLEKnoh8-mEpzt8fQ</h3>
+<h3 align="left">I'm Ranula from SriLanka , and I do content on Design and Mobile App Development. I really enjoy learning languages and frameworks like Android, React Native, Flutter, as well as iOS Development. I also enjoy wireframing Web UI , Mobile UI, UX and Design in general. 
 
-- 🔭 I’m currently working on **Flutter projects and iOS Projects**
+- 🔭 I’m currently working on **Web and Mobile projects and ML Traning**
 
-- 🌱 I’m currently learning **Dart Language**
+- 🌱 I’m currently learning **Dart , React Native Languages**
 
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 👯 I’m looking to collaborate on **Web and Mobile Development**
 
 - 📄 Know about my experiences
 
