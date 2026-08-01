@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- 🔭 I’m currently working on Web and Mobile projects such as iOS (Swift & Swift UI) and ML Training<br><br> 🌱 I’m currently learning Flutter, React Native Languages<br><br> 👯 I’m looking to collaborate on Cyber Security Technology and Mobile Development<br><br> 📄 I do have 5+ experiences in Mobile App Development<br>
+ 🔭 I’m currently working on Web and Mobile projects such as iOS (Swift & Swift UI) and ML Training<br><br> 🌱 I’m currently learning Full Stack Development, React Native Languages<br><br> 👯 I’m looking to collaborate on Cyber Security Technology and Mobile Development<br><br> 📄 I do have 6+ experiences in Mobile App Development<br>
 
 
 ## 🌐 Socials:
