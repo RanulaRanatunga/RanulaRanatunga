@@ -22,19 +22,19 @@
 ```typescript
 const ranula = {
   name: "Ranula Ranatunga",
-  role: "Full Stack Developer",
-  experience: "6+ years",
+  role: "Full Stack Engineer",
+  experience: "7+ years",
   working_on: ["iOS (Swift & SwiftUI)", "Web & Mobile projects", "ML training"],
-  learning: ["Full Stack Development", "React Native", "Go"],
-  open_to_collaborate: ["Cyber Security Technology", "Full Stack Development"],
+  learning: ["Full Stack Engineering", "React Native", "Go", "Cyber Security", "AI", "ML", "Cloud Computing", "AR/VR"],
+  open_to_collaborate: ["Cyber Security Technology", "Full Stack Engineering"],
   fun_fact: "I turn coffee into code ☕",
 };
 ```
 
 - 🔭 Currently working on **Web and Mobile projects** such as iOS (Swift & SwiftUI) and **ML training**
-- 🌱 Currently learning **Full Stack Development**, **React Native** and **Go**
-- 👯 Looking to collaborate on **Cyber Security** and **Full Stack Development**
-- 📄 **6+ years** of experience in Full Stack Development
+- 🌱 Currently learning **Full Stack Engineering**, **React Native** and **Go**
+- 👯 Looking to collaborate on **Cyber Security** and **Full Stack Engineering**
+- 📄 **7+ years** of experience in Full Stack Engineering
 
 ---
 
